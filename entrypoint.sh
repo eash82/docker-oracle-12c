@@ -107,7 +107,7 @@ case "$1" in
 			echo
 		fi
 
-		echo "Database ready to use. Enjoy! ;)"
+		#echo "Database ready to use. Enjoy! ;)"
 
 		##
 		## Workaround for graceful shutdown.
